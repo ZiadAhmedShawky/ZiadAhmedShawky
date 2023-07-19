@@ -51,7 +51,7 @@
 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadahmedshawky&show_icons=true&locale=en&layout=compact" alt="ziadahmedshawky" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadahmedshawky&show_icons=true&locale=en" alt="ziadahmedshawky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadahmedshawky&" alt="ziadahmedshawky" /></p>
